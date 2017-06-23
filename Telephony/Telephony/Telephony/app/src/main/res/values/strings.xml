@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Telephony</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_phone_number_here">Enter phone number here</string>
+    <string name="enter_sms_message_here">Enter SMS Message here</string>
+    <string name="send_sms_message">Send SMS Message</string>
+    <string name="make_phone_call">Make Phone Call</string>
+</resources>
